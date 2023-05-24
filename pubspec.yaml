@@ -86,6 +86,13 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
+  fonts:
+    - family: Playfair
+      fonts:
+        - asset: assets/fonts/Playfair.ttf
+      
+  assets:
+    - assets/images/
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
